@@ -1,0 +1,2 @@
+Mon, 05 Jun 2017 12:01:57 connectionpool.py[line:212] DEBUG Starting new HTTP connection (1): credit.logink.org
+Mon, 05 Jun 2017 12:01:57 connectionpool.py[line:400] DEBUG http://credit.logink.org:80 "POST /gateway/directQuery!qry.htm HTTP/1.1" 200 157
